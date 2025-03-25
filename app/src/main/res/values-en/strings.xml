@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">peldazh</string>
+    <string name="text1">Score: </string>
+    <string name="text2">Number of tries: </string>
+</resources>

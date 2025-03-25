@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">peldazh</string>
+    <string name="text1">Pontszám: </string>
+    <string name="text2">Próbálkozások száma: </string>
+</resources>
